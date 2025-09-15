@@ -35,4 +35,5 @@ This project served as a deeper dive into front-end layout architecture. Compare
 ## 🔗 Live Preview
 
 View the project live here:
+
 [Kasper Landing Page](https://abddalrahman.github.io/Kasper-Landing-Page/)
